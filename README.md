@@ -25,7 +25,7 @@ Key features include:
 
 Learn more:
 
-[OWON PCT5231 WiFi Thermostat]([https://www.owon-smart.com/](https://www.owon-smart.com/tuya-wifi-24vac-thermostat-touch-buttonwhite-caseblack-screen-pct-523-w-ty-product/))
+[OWON PCT5231 WiFi Thermostat](https://www.owon-smart.com/tuya-wifi-24vac-thermostat-touch-buttonwhite-caseblack-screen-pct-523-w-ty-product/)
 
 ### OWON PCT533 Smart HVAC Thermostat
 
@@ -46,7 +46,7 @@ Key features include:
 
 Learn more:
 
-[OWON PCT533 Smart HVAC Thermostat]([https://www.owon-smart.com/](https://www.owon-smart.com/full-color-smart-wifi-thermostat-24vac-owon-manufacturer-product/))
+[OWON PCT533 Smart HVAC Thermostat](https://www.owon-smart.com/full-color-smart-wifi-thermostat-24vac-owon-manufacturer-product/)
 
 ## HVAC Applications
 
