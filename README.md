@@ -95,7 +95,6 @@ Additional datasheets and product updates will be published as new models become
 
 Learn more about OWON HVAC solutions:
 
-- [Choosing the Right Thermostat for 4H/2C Heat Pump Applications](https://www.owon-smart.com/news/choosing-the-right-thermostat-for-4h2c-heat-pump-applications/)
 - [Choosing the Right Thermostat for 4H/2C Heat Pump Applications](https://www.owon-smart.com/news/heat-pump-thermostat-guide/)
 - [Dual Fuel Thermostats](https://www.owon-smart.com/news/dual-fuel-thermostat-smart-control-for-hybrid-hvac-systems/)
 - [WIFI Smart HVAC Control Solution](https://www.owon-smart.com/news/heat-pump-thermostat-guide/)
