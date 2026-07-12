@@ -91,9 +91,9 @@ The latest technical documentation for the OWON PCT5231 is available below.
 This repository provides selected product documentation and technical information for OWON WiFi HVAC thermostats.
 
 Additional datasheets and product updates will be published as new models become available.
-## Related Resources
+## Related Reading
 
-Learn more about OWON HVAC solutions:
+To learn more about WiFi HVAC thermostats, visit:
 
 - [Choosing the Right Thermostat for 4H/2C Heat Pump Applications](https://www.owon-smart.com/news/heat-pump-thermostat-guide/)
 - [Dual Fuel Thermostats](https://www.owon-smart.com/news/dual-fuel-thermostat-smart-control-for-hybrid-hvac-systems/)
