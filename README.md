@@ -78,7 +78,7 @@ Available services include:
 - Private labeling and packaging
 - Scalable manufacturing
 
-- ## Product Documentation
+## Product Documentation
 
 ### PCT5231 WiFi Thermostat
 
@@ -88,7 +88,17 @@ The latest technical documentation for the OWON PCT5231 is available below.
 
 ## Technical Resources
 
-This repository will be used to share selected technical information, product documentation, integration guidance, and updates related to OWON HVAC thermostat solutions.
+This repository provides selected product documentation and technical information for OWON WiFi HVAC thermostats.
+
+Additional datasheets and product updates will be published as new models become available.
+## Related Resources
+
+Learn more about OWON HVAC solutions:
+
+- [Choosing the Right Thermostat for 4H/2C Heat Pump Applications](https://www.owon-smart.com/news/choosing-the-right-thermostat-for-4h2c-heat-pump-applications/)
+- [Choosing the Right Thermostat for 4H/2C Heat Pump Applications](https://www.owon-smart.com/news/heat-pump-thermostat-guide/)
+- [Dual Fuel Thermostats](https://www.owon-smart.com/news/dual-fuel-thermostat-smart-control-for-hybrid-hvac-systems/)
+- [WIFI Smart HVAC Control Solution](https://www.owon-smart.com/news/heat-pump-thermostat-guide/)
 
 ## Official Website
 
@@ -98,9 +108,10 @@ Visit the official OWON website:
 
 ## Contact
 
-For OEM, ODM, distribution, or system integration enquiries:
+OWON welcomes OEM, ODM, distribution and system integration opportunities worldwide.
 
-- Email: sales@owon.com
-- Website: https://www.owon-smart.com/
+Email: sales@owon.com
+
+Website: https://www.owon-smart.com/
 
 
