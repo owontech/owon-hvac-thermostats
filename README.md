@@ -77,6 +77,14 @@ Available services include:
 - Private labeling and packaging
 - Scalable manufacturing
 
+- ## Product Documentation
+
+### PCT5231 WiFi Thermostat
+
+The latest technical documentation for the OWON PCT5231 is available below.
+
+- [PCT5231 WiFi Thermostat Datasheet](https://github.com/owontech/owon-hvac-thermostats/blob/main/PCT5231-WiFi-Thermostat-Datasheet.pdf)
+
 ## Technical Resources
 
 This repository will be used to share selected technical information, product documentation, integration guidance, and updates related to OWON HVAC thermostat solutions.
