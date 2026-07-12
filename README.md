@@ -1,5 +1,5 @@
 # OWON WiFi HVAC Thermostats
-
+![OWON PCT5231 WiFi Thermostat](PCT5231-WiFi-Thermostat.jpg)
 OWON Technology develops and manufactures WiFi smart thermostats for North American 24VAC HVAC systems, including conventional heating and cooling equipment, multi-stage heat pumps, dual fuel systems, and hybrid heating applications.
 
 Founded in 1993, OWON is an ISO 9001:2015 certified OEM/ODM manufacturer specializing in smart energy management, HVAC control, Zigbee devices, and IoT system integration.
