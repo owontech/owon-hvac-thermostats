@@ -98,6 +98,8 @@ Learn more about OWON HVAC solutions:
 - [Choosing the Right Thermostat for 4H/2C Heat Pump Applications](https://www.owon-smart.com/news/heat-pump-thermostat-guide/)
 - [Dual Fuel Thermostats](https://www.owon-smart.com/news/dual-fuel-thermostat-smart-control-for-hybrid-hvac-systems/)
 - [WIFI Smart HVAC Control Solution](https://www.owon-smart.com/wifi-thermostat-solution/)
+- [Landlord Smart Thermostat](https://www.owon-smart.com/news/landlord-smart-thermostat-control-lock-temperature-limit/)
+- [Smart Thermostat ODM Manufacturer](https://www.owon-smart.com/news/smart-thermostat-odm-manufacturer-for-hvac-equipment-providers-iaq-fcu-rs485-control-platform/)
 
 ## Official Website
 
