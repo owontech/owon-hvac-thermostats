@@ -100,6 +100,7 @@ To learn more about WiFi HVAC thermostats, visit:
 - [WIFI Smart HVAC Control Solution](https://www.owon-smart.com/wifi-thermostat-solution/)
 - [Landlord Smart Thermostat](https://www.owon-smart.com/news/landlord-smart-thermostat-control-lock-temperature-limit/)
 - [Smart Thermostat ODM Manufacturer](https://www.owon-smart.com/news/smart-thermostat-odm-manufacturer-for-hvac-equipment-providers-iaq-fcu-rs485-control-platform/)
+- [Hybrid Thermostat for Dual Fuel HVAC Systems](https://www.owon-smart.com/news/hybrid-thermostat-the-future-of-smart-energy-management/)
 
 ## Official Website
 
